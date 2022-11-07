@@ -9,3 +9,7 @@ p {
    text-align: center;
    background: #111111;
   }
+
+  em strong{
+    color: aqua;
+ }
