@@ -1,8 +1,12 @@
- h1 {
+body{
+    background: #111111;
+}
+ {
+h1 {
     text-align: center;
  }
 p { 
    text-align: center;
-   background: #141414e3;
+   background: #111111;
   }
      
